@@ -122,5 +122,5 @@ scene.setBackgroundImage(img`
     `)
 for (let index = 0; index < 3; index++) {
     music.playMelody("D A D B G E G D ", 120)
-    music.playMelody("D C5 D - D C5 D - ", 240)
+    music.playMelody("D A D - D A D - ", 240)
 }
